@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0749238d22795c64a898256c6b833585, type: 3}
+  m_Name: Skill Data - Found Fragment
+  m_EditorClassIdentifier: Assembly-CSharp::Skill_DataSO
+  cost: 3
+  unlockedByDefault: 0
+  skillType: 0
+  upgradeData:
+    upgradeType: 5
+    cooldown: 3
+    damageScaleData:
+      physical: 1
+      elemental: 1
+      chillDuration: 3
+      chillSlowMultiplier: 0.2
+      burnDuration: 3
+      burnDamageScale: 1
+      shockDuration: 3
+      shockDamageScale: 1
+      shockCharge: 0.4
+  displayName: Found Fragment
+  description: 'Create a time shard on arrival.
+
+    (Inherits all upgrades of Time
+    Shard Ability)'
+  icon: {fileID: -1298564637, guid: e8c2649e88976c9428fc7d466164b705, type: 3}
