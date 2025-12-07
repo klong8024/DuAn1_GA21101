@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0749238d22795c64a898256c6b833585, type: 3}
+  m_Name: Skill Data - The Xenablade
+  m_EditorClassIdentifier: Assembly-CSharp::Skill_DataSO
+  displayName: The Xenablade
+  description: The sword will bounce between the enemies, dealing damage on each
+    bounce.
+  icon: {fileID: 1129140520, guid: e8c2649e88976c9428fc7d466164b705, type: 3}
+  cost: 2
+  unlockedByDefault: 0
+  skillType: 3
+  upgradeData:
+    upgradeType: 14
+    cooldown: 4
+    damageScaleData:
+      physical: 1
+      elemental: 1
+      chillDuration: 3
+      chillSlowMultiplier: 0.2
+      burnDuration: 3
+      burnDamageScale: 1
+      shockDuration: 3
+      shockDamageScale: 1
+      shockCharge: 0.4

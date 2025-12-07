@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: b1acfd0fb20d0ea419cc36b30fd8683d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2583152668553401711
+    second: HieuUngNamek_0
+  - first:
+      213: -1097686723656779298
+    second: HieuUngNamek_1
+  - first:
+      213: -4371181758945175479
+    second: HieuUngNamek_2
+  - first:
+      213: -2715840939127672241
+    second: HieuUngNamek_3
+  - first:
+      213: -3968934650374839107
+    second: HieuUngNamek_4
+  - first:
+      213: 3156998095714818459
+    second: HieuUngNamek_5
+  - first:
+      213: 165448231994817765
+    second: HieuUngNamek_6
+  - first:
+      213: 5130162622399756308
+    second: HieuUngNamek_7
+  - first:
+      213: 1575189422708193310
+    second: HieuUngNamek_8
+  - first:
+      213: 7404127875119764733
+    second: HieuUngNamek_9
+  - first:
+      213: -1182478383349714868
+    second: HieuUngNamek_10
+  - first:
+      213: -1292681487714483051
+    second: HieuUngNamek_11
+  - first:
+      213: 8707443876765453180
+    second: HieuUngNamek_12
+  - first:
+      213: -6910898778105283751
+    second: HieuUngNamek_13
+  - first:
+      213: 3513526145433834154
+    second: HieuUngNamek_14
+  - first:
+      213: -4457789893105263873
+    second: HieuUngNamek_15
+  - first:
+      213: -5229131072195760958
+    second: HieuUngNamek_16
+  - first:
+      213: 4115021418603007753
+    second: HieuUngNamek_17
+  - first:
+      213: 176407784229363451
+    second: HieuUngNamek_18
+  - first:
+      213: 1354173958978927737
+    second: HieuUngNamek_19
+  - first:
+      213: 3716421971772763200
+    second: HieuUngNamek_20
+  - first:
+      213: -6918062061103291090
+    second: HieuUngNamek_21
+  - first:
+      213: -7577847845893947577
+    second: HieuUngNamek_22
+  - first:
+      213: 3578792525303744649
+    second: HieuUngNamek_23
+  - first:
+      213: -7233815602751799037
+    second: HieuUngNamek_24
+  - first:
+      213: 3351423766414247009
+    second: HieuUngNamek_25
+  - first:
+      213: -5410549461915327277
+    second: HieuUngNamek_26
+  - first:
+      213: 4488823094948109612
+    second: HieuUngNamek_27
+  - first:
+      213: 8814597882428723987
+    second: HieuUngNamek_28
+  - first:
+      213: -7885489107074416965
+    second: HieuUngNamek_29
+  - first:
+      213: -6444672075796885584
+    second: HieuUngNamek_30
+  - first:
+      213: -8440754727705308115
+    second: HieuUngNamek_31
+  - first:
+      213: 2450631672306544516
+    second: HieuUngNamek_32
+  - first:
+      213: -5297398572450056226
+    second: HieuUngNamek_33
+  - first:
+      213: 973258352963273362
+    second: HieuUngNamek_34
+  - first:
+      213: -1682271691787548801
+    second: HieuUngNamek_35
+  - first:
+      213: 5366082441200839384
+    second: HieuUngNamek_36
+  - first:
+      213: -777226376025147297
+    second: HieuUngNamek_37
+  - first:
+      213: -2093336702020804901
+    second: HieuUngNamek_38
+  - first:
+      213: -7596062136293322208
+    second: HieuUngNamek_39
+  - first:
+      213: -1020690162595534551
+    second: HieuUngNamek_40
+  - first:
+      213: -1860207563755746372
+    second: HieuUngNamek_41
+  - first:
+      213: -9103309768204685534
+    second: HieuUngNamek_42
+  - first:
+      213: 8518192890252044217
+    second: HieuUngNamek_43
+  - first:
+      213: 2403997881809877017
+    second: HieuUngNamek_44
+  - first:
+      213: -3746115571766590791
+    second: HieuUngNamek_45
+  - first:
+      213: -8541288024459670878
+    second: HieuUngNamek_46
+  - first:
+      213: 5316948216226666088
+    second: HieuUngNamek_47
+  - first:
+      213: 515591657271760153
+    second: HieuUngNamek_48
+  - first:
+      213: -7622022965328835931
+    second: HieuUngNamek_49
+  - first:
+      213: -5949452858754532816
+    second: HieuUngNamek_50
+  - first:
+      213: -3146037242802905007
+    second: HieuUngNamek_51
+  - first:
+      213: 4678470056056277752
+    second: HieuUngNamek_52
+  - first:
+      213: 7079155737152015598
+    second: HieuUngNamek_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HieuUngNamek_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa546855cc62cd0800000000000000
+      internalID: -2583152668553401711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HieuUngNamek_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e75f29fb95c3c49915d05c8732919a
+      internalID: -1097686723656779298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HieuUngNamek_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4a14e484f0c24c8db9afab344db66
+      internalID: -4371181758945175479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c0484ba4ef078d34e849fde05ee4db85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":92.0,"y":106.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HieuUngNamek_0: -2583152668553401711
+      HieuUngNamek_1: -1097686723656779298
+      HieuUngNamek_2: -4371181758945175479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
